@@ -3,6 +3,9 @@
 > **Find your people. Finish your work.**  
 > A lightweight, collaborative campus study circle discovery and reservation platform built for university students.
 
+> **Demo Video Link: https://drive.google.com/file/d/1HUYawlkK9n7BPySoPxukicR83LyiwQYy/view?usp=sharing**  
+
+
 [![Tests: Passing](https://img.shields.io/badge/tests-9%20passed-success)](test_server.py)
 [![Python: 3.10+](https://img.shields.io/badge/python-3.10%2B-blue)](server.py)
 [![Zero Runtime Dependencies](https://img.shields.io/badge/dependencies-0%20runtime-brightgreen)](Dockerfile)
